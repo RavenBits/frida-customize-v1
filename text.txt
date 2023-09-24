@@ -1,0 +1,10 @@
+#Archivo creado para almacenar keys, faltante en el example default
+#Data from QR code
+OPENAI_API_KEY=6b25369971534252bbcee5e488ce59f1
+OPENAI_API_BASE=https://openaistkinno.openai.azure.com/
+OPENAI_CHAT_MODEL_NAME=InnovationGPT2
+OPENAI_EMBEDDINGS_MODEL_NAME=OpenAIEmbeddings
+#Key from DB      
+api_key=db6ffbf3-a6ce-4a47-b31a-55ce13a0eb48      
+environment=gcp-starter         
+index = arraydb
